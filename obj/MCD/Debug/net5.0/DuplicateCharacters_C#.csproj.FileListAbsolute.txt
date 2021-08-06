@@ -1,0 +1,16 @@
+C:\DuplicateCharacters_C#\bin\MCD\Debug\net5.0\DuplicateCharacters_C#.exe
+C:\DuplicateCharacters_C#\bin\MCD\Debug\net5.0\DuplicateCharacters_C#.deps.json
+C:\DuplicateCharacters_C#\bin\MCD\Debug\net5.0\DuplicateCharacters_C#.runtimeconfig.json
+C:\DuplicateCharacters_C#\bin\MCD\Debug\net5.0\DuplicateCharacters_C#.runtimeconfig.dev.json
+C:\DuplicateCharacters_C#\bin\MCD\Debug\net5.0\DuplicateCharacters_C#.dll
+C:\DuplicateCharacters_C#\bin\MCD\Debug\net5.0\ref\DuplicateCharacters_C#.dll
+C:\DuplicateCharacters_C#\bin\MCD\Debug\net5.0\DuplicateCharacters_C#.pdb
+C:\DuplicateCharacters_C#\obj\MCD\Debug\net5.0\DuplicateCharacters_C#.csprojAssemblyReference.cache
+C:\DuplicateCharacters_C#\obj\MCD\Debug\net5.0\DuplicateCharacters_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\DuplicateCharacters_C#\obj\MCD\Debug\net5.0\DuplicateCharacters_C#.AssemblyInfoInputs.cache
+C:\DuplicateCharacters_C#\obj\MCD\Debug\net5.0\DuplicateCharacters_C#.AssemblyInfo.cs
+C:\DuplicateCharacters_C#\obj\MCD\Debug\net5.0\DuplicateCharacters_C#.csproj.CoreCompileInputs.cache
+C:\DuplicateCharacters_C#\obj\MCD\Debug\net5.0\DuplicateCharacters_C#.dll
+C:\DuplicateCharacters_C#\obj\MCD\Debug\net5.0\ref\DuplicateCharacters_C#.dll
+C:\DuplicateCharacters_C#\obj\MCD\Debug\net5.0\DuplicateCharacters_C#.pdb
+C:\DuplicateCharacters_C#\obj\MCD\Debug\net5.0\DuplicateCharacters_C#.genruntimeconfig.cache
